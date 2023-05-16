@@ -1,8 +1,24 @@
 // The first Java Lesson
 
-public class JavaIntro
+/*
+Just a multiple-lines comment
+ */
+
+/*
+In Java everything is an Object. Main realisation of our object is a Class
+ */
+
+// Функциональное
+// Процедурное
+// ООП
+
+// Оранжевое слово означает ключевое слово в Java
+// keyword - зарезервированное слово в языке программирования
+// Upper-Camel Case
+// Class - имя существительное, Животное, Человек, Введение
+class JavaIntroProfession
 {
-    public static void main(String[] args)
+    public static void main(String[] args) // entry-point (точка входа)
     {
         // Integrated output class
         System.out.println("Welcome to Java Profession Lesson."); // ln -> next line
@@ -17,5 +33,16 @@ public class JavaIntro
         // println vs. print
         System.out.println(); // любой вывод требует чего на выход - передает знак следующей строчки
         System.out.print(""); // error
+
+        // Java 1.8
+        // Java 8 / 11 / 14
+        // LTS (Long-Term Support) - STS (Short-Term Support)
+        // Java
+        // Legacy
+    }
+
+    public static void getName() // There is no method call
+    {
+
     }
 }
