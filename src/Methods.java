@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 // Lesson 4: Conditional Operators, Loops, Continue, Break, Return
 // Methods -> Echo, Parameters
-public class Main
+public class Methods
 {
     public static void main(String[] args) {
         int x = 10;
