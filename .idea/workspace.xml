@@ -4,7 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="edae3b44-47ea-4c61-bcf5-a742c02db00c" name="Changes" comment="" />
+    <list default="true" id="edae3b44-47ea-4c61-bcf5-a742c02db00c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/HomeWork/ConditionalOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeWork/Loops.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeWork/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Conditional.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Loops.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Methods.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SwitchReturn.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,10 +44,23 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.SwitchReturn">
+  <component name="RunManager" selected="Application.HomeWork.Loops">
     <configuration name="Conditional" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Conditional" />
       <module name="TeachMeSkills22" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HomeWork.Loops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HomeWork.Loops" />
+      <module name="TeachMeSkills22" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HomeWork.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -50,9 +72,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Methods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Methods" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HomeWork.Main" />
       <module name="TeachMeSkills22" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HomeWork.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -64,20 +92,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Symbol" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Symbol" />
-      <module name="TeachMeSkills22" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HomeWork.Loops" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.SwitchReturn" />
         <item itemvalue="Application.Loops" />
         <item itemvalue="Application.Conditional" />
-        <item itemvalue="Application.Methods" />
-        <item itemvalue="Application.Symbol" />
       </list>
     </recent_temporary>
   </component>
