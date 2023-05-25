@@ -5,14 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="edae3b44-47ea-4c61-bcf5-a742c02db00c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/HomeWork/ConditionalOperator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HomeWork/Loops.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HomeWork/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArraysG/ArraysBasic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArraysG/ArraysLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArraysG/VarArgs.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Conditional.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Loops.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Methods.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SwitchReturn.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HomeWork/ConditionalOperator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HomeWork/Loops.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HomeWork/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,10 +43,29 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.HomeWork.Loops">
-    <configuration name="Conditional" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Conditional" />
+  <component name="RunManager" selected="Application.VarArgs">
+    <configuration name="ArraysBasic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArraysG.ArraysBasic" />
       <module name="TeachMeSkills22" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ArraysG.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArraysLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArraysG.ArraysLoop" />
+      <module name="TeachMeSkills22" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ArraysG.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -65,13 +83,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Loops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Loops" />
-      <module name="TeachMeSkills22" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HomeWork.Main" />
       <module name="TeachMeSkills22" />
@@ -85,20 +96,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SwitchReturn" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SwitchReturn" />
+    <configuration name="VarArgs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArraysG.VarArgs" />
       <module name="TeachMeSkills22" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ArraysG.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.VarArgs" />
+        <item itemvalue="Application.ArraysLoop" />
+        <item itemvalue="Application.ArraysBasic" />
         <item itemvalue="Application.HomeWork.Loops" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.SwitchReturn" />
-        <item itemvalue="Application.Loops" />
-        <item itemvalue="Application.Conditional" />
       </list>
     </recent_temporary>
   </component>
