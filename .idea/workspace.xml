@@ -5,7 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="edae3b44-47ea-4c61-bcf5-a742c02db00c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/HomeWork4/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HomeWork/ConditionalOperator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HomeWork/Loops.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HomeWork/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HomeWork4/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,14 +47,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.HomeWork.Loops">
-    <configuration name="Conditional" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Conditional" />
-      <module name="TeachMeSkills22" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Main (1)">
     <configuration name="HomeWork.Loops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HomeWork.Loops" />
       <module name="TeachMeSkills22" />
@@ -65,6 +63,13 @@
     </configuration>
     <configuration name="Loops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Loops" />
+      <module name="TeachMeSkills22" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="TeachMeSkills22" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -92,11 +97,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.HomeWork.Loops" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.SwitchReturn" />
         <item itemvalue="Application.Loops" />
-        <item itemvalue="Application.Conditional" />
       </list>
     </recent_temporary>
   </component>
