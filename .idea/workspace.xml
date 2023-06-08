@@ -5,8 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="edae3b44-47ea-4c61-bcf5-a742c02db00c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Inheritance/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Inheritance/Horses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Inheritance/Lions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Inheritance/MyMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Inheritance/Wolfs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP/MyMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP/Opel.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Varargs/MyMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Varargs/MyMain.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +50,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Varargs.MyMain">
+  <component name="RunManager" selected="Application.Inheritance.MyMain">
     <configuration name="CC.MyMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CC.MyMain" />
       <module name="TeachMeSkills22" />
@@ -57,12 +64,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Delegation.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Delegation.Main" />
+    <configuration name="GetSet.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GetSet.Main" />
       <module name="TeachMeSkills22" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Delegation.*" />
+          <option name="PATTERN" value="GetSet.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -70,12 +77,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GetSet.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="GetSet.Main" />
+    <configuration name="Inheritance.MyMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Inheritance.MyMain" />
       <module name="TeachMeSkills22" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="GetSet.*" />
+          <option name="PATTERN" value="Inheritance.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,11 +118,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Inheritance.MyMain" />
         <item itemvalue="Application.Varargs.MyMain" />
         <item itemvalue="Application.MyMain" />
         <item itemvalue="Application.CC.MyMain" />
         <item itemvalue="Application.GetSet.Main" />
-        <item itemvalue="Application.Delegation.Main" />
       </list>
     </recent_temporary>
   </component>
