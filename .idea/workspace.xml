@@ -5,25 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="edae3b44-47ea-4c61-bcf5-a742c02db00c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/CC/CreditCard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CC/MyMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PC/Computer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PC/HDD.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PC/MyMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PC/RAM.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BasicClass/Cars.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BasicClass/MyMain.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CarsWithParts/Car.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CarsWithParts/Engine.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CarsWithParts/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CarsWithParts/Wheels.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Delegation/Archil.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Delegation/Human.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Delegation/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GetSet/Human.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GetSet/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CC/CreditCard.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CC/MyMain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PC/Computer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PC/HDD.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PC/MyMain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PC/RAM.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
