@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="edae3b44-47ea-4c61-bcf5-a742c02db00c" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/CC/CreditCard.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CC/MyMain.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PC/Computer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PC/HDD.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PC/MyMain.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PC/RAM.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Varargs/MyMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Varargs/MyMain.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +43,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.MyMain">
+  <component name="RunManager" selected="Application.Varargs.MyMain">
     <configuration name="CC.MyMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CC.MyMain" />
       <module name="TeachMeSkills22" />
@@ -87,19 +83,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CarsWithParts.Main" />
-      <module name="TeachMeSkills22" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="CarsWithParts.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="MyMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="PC.MyMain" />
       <module name="TeachMeSkills22" />
@@ -113,13 +96,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Varargs.MyMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Varargs.MyMain" />
+      <module name="TeachMeSkills22" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Varargs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Varargs.MyMain" />
         <item itemvalue="Application.MyMain" />
         <item itemvalue="Application.CC.MyMain" />
         <item itemvalue="Application.GetSet.Main" />
         <item itemvalue="Application.Delegation.Main" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
