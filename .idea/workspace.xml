@@ -5,14 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="edae3b44-47ea-4c61-bcf5-a742c02db00c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ClassObjects/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CloneClass/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Homework81/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Homework81/Phone.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Homework82/Circle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Homework82/Figure.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Homework82/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Homework82/Triangle.java" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Static/BMW.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Static/Cars.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Static/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Static/Mercedes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,20 +46,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Homework81.Main">
-    <configuration name="Delegation.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Delegation.Main" />
-      <module name="TeachMeSkills22" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Delegation.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Static.Main">
     <configuration name="GetSet.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="GetSet.Main" />
       <module name="TeachMeSkills22" />
@@ -115,13 +99,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Static.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Static.Main" />
+      <module name="TeachMeSkills22" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Static.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Static.Main" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Homework81.Main" />
         <item itemvalue="Application.HomeWork.Main" />
         <item itemvalue="Application.GetSet.Main" />
-        <item itemvalue="Application.Delegation.Main" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
