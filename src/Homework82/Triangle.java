@@ -9,8 +9,11 @@ public class Triangle extends Figure{
         // Высчитываем параметр фигуры
     }
 
+
+
     @Override
     public void square() {
         // Высчитываем площадь фигуры
+        super.general();
     }
 }

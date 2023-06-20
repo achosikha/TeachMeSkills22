@@ -15,6 +15,10 @@ public abstract class Figure {
     public abstract void perimeter();
     public abstract void square();
 
+    public void general()
+    {
+        System.out.println("Just general method...");
+    }
     @Override
     public String toString() {
         return super.toString();

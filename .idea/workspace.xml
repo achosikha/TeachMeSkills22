@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="edae3b44-47ea-4c61-bcf5-a742c02db00c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Homework82/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Homework82/Figure.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Homework82/Triangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Homework82/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Homework82/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Homework82/Figure.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Homework82/Figure.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Homework82/Triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Homework82/Triangle.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,7 +23,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="homework6" />
+        <entry key="$PROJECT_DIR$" value="lesson9" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
