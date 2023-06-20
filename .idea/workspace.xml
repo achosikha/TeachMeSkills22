@@ -5,15 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="edae3b44-47ea-4c61-bcf5-a742c02db00c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Interfaces/Accountant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Interfaces/Additional.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Interfaces/BlueColorWorker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Interfaces/Director.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Interfaces/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Interfaces/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Interfaces/NonObligatory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Interfaces/Position.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ClassObjects/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ClassObjects/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,13 +43,13 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Interfaces.Main">
-    <configuration name="HomeWork.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HomeWork.Main" />
+  <component name="RunManager" selected="Application.ClassObjects.Main">
+    <configuration name="ClassObjects.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ClassObjects.Main" />
       <module name="TeachMeSkills22" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="HomeWork.*" />
+          <option name="PATTERN" value="ClassObjects.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,11 +111,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ClassObjects.Main" />
         <item itemvalue="Application.Interfaces.Main" />
         <item itemvalue="Application.Static.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Homework81.Main" />
-        <item itemvalue="Application.HomeWork.Main" />
       </list>
     </recent_temporary>
   </component>
