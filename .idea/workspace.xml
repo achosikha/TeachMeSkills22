@@ -5,6 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="edae3b44-47ea-4c61-bcf5-a742c02db00c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/HomeWork/ArrayAverage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeWork/ArrayStatistics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeWork/RemoveNumber.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,35 +40,9 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.VarArgs">
-    <configuration name="ArraysBasic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArraysG.ArraysBasic" />
-      <module name="TeachMeSkills22" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ArraysG.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ArraysLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArraysG.ArraysLoop" />
-      <module name="TeachMeSkills22" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ArraysG.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="HomeWork.Loops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HomeWork.Loops" />
+  <component name="RunManager" selected="Application.SearchNumber">
+    <configuration name="ArrayAverage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HomeWork.ArrayAverage" />
       <module name="TeachMeSkills22" />
       <extension name="coverage">
         <pattern>
@@ -77,8 +54,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HomeWork.Main" />
+    <configuration name="ArrayStatistics" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HomeWork.ArrayStatistics" />
+      <module name="TeachMeSkills22" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HomeWork.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RemoveNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HomeWork.RemoveNumber" />
+      <module name="TeachMeSkills22" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HomeWork.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SearchNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HomeWork.SearchNumber" />
       <module name="TeachMeSkills22" />
       <extension name="coverage">
         <pattern>
@@ -105,11 +108,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SearchNumber" />
+        <item itemvalue="Application.RemoveNumber" />
+        <item itemvalue="Application.ArrayStatistics" />
+        <item itemvalue="Application.ArrayAverage" />
         <item itemvalue="Application.VarArgs" />
-        <item itemvalue="Application.ArraysLoop" />
-        <item itemvalue="Application.ArraysBasic" />
-        <item itemvalue="Application.HomeWork.Loops" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
