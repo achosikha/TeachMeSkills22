@@ -112,5 +112,13 @@ public class Main {
         sum = sum * Double.valueOf(forExpression[2]);
 
         System.out.println(sum);
+
+        StringBuilder longExpression = new StringBuilder("Welcome to Java");
+        longExpression.setCharAt(0, 'X');
+        System.out.println(longExpression);
+        longExpression.append(" this was added by append method...");
+        System.out.println(longExpression);
+        longExpression.delete(0, 16);
+        System.out.println(longExpression);
     }
 }
