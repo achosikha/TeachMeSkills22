@@ -5,13 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="edae3b44-47ea-4c61-bcf5-a742c02db00c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/HomeWorkInterface/Accountant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HomeWorkInterface/Director.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HomeWorkInterface/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HomeWorkInterface/EmployeePosition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HomeWorkInterface/Gardener.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HomeWorkInterface/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomeWorkInterface/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ObjectClone/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ObjectClone/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ObjectClone/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ObjectClone/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,8 +17,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -49,7 +45,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.HomeWorkInterface.Main">
+  <component name="RunManager" selected="Application.ObjectClone.Main">
     <configuration name="ClassObjects.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ClassObjects.Main" />
       <module name="TeachMeSkills22" />
@@ -89,12 +85,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CarsWithParts.Main" />
+    <configuration name="ObjectClone.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ObjectClone.Main" />
       <module name="TeachMeSkills22" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CarsWithParts.*" />
+          <option name="PATTERN" value="ObjectClone.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ObjectClone.Main" />
         <item itemvalue="Application.HomeWorkInterface.Main" />
         <item itemvalue="Application.ClassObjects.Main" />
         <item itemvalue="Application.Interfaces.Main" />
         <item itemvalue="Application.Static.Main" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
