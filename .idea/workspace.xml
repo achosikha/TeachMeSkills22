@@ -5,13 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="edae3b44-47ea-4c61-bcf5-a742c02db00c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/HomeWorkInterface/Accountant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HomeWorkInterface/Director.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HomeWorkInterface/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HomeWorkInterface/EmployeePosition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HomeWorkInterface/Gardener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Vector/IFVector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Vector/MainVector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Vector/Vector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Vector/Vector2D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Vector/Vector3D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/VectorAdditional/IFVectorNSize.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/VectorAdditional/Main_NSize_Vector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/VectorAdditional/NSize_Vector.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HomeWorkInterface/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomeWorkInterface/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,8 +23,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
