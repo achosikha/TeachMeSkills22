@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="edae3b44-47ea-4c61-bcf5-a742c02db00c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Vector/IFVector.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Vector/MainVector.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Vector/Vector.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Vector/Vector2D.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Vector/Vector3D.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/VectorAdditional/IFVectorNSize.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/VectorAdditional/Main_NSize_Vector.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/VectorAdditional/NSize_Vector.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="edae3b44-47ea-4c61-bcf5-a742c02db00c" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
