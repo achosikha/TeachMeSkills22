@@ -19,4 +19,9 @@ public class Main {
             throw new PasswordException("Your password is incorrect...");
         }
     }
+
+    static void getFile()
+    {
+        //
+    }
 }
