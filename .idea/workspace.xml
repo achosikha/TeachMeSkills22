@@ -5,7 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="edae3b44-47ea-4c61-bcf5-a742c02db00c" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/ExceptionsPrivate/IncorrectPasswordException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExceptionsPrivate/IncorrectPasswordException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BufferedReader/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BufferedReader/general.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FileCreate/MainFileCreate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FileInputOutput/MyFileInputOutput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FileInputOutput/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FileReaderWriter/MainFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FileReaderWriter/read.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FileClass/MainFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FileClass/MainFile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FileClass/text.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/FileClass/text.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,20 +46,13 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.MyMain">
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="TeachMeSkills22" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MainDocument" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DocumentID.MainDocument" />
+  <component name="RunManager" selected="Application.MainFileCreate">
+    <configuration name="BufferedReader.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BufferedReader.Main" />
       <module name="TeachMeSkills22" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DocumentID.*" />
+          <option name="PATTERN" value="BufferedReader.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -58,12 +60,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainDoubleString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DoubleString.MainDoubleString" />
+    <configuration name="FileReaderWriter.MainFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FileReaderWriter.MainFile" />
       <module name="TeachMeSkills22" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DoubleString.*" />
+          <option name="PATTERN" value="FileReaderWriter.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -71,12 +73,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExceptionsPrivate.MyMain" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CreateDocument.Main" />
       <module name="TeachMeSkills22" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ExceptionsPrivate.*" />
+          <option name="PATTERN" value="CreateDocument.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -84,20 +86,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Symbol" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Symbol" />
+    <configuration name="MainFileCreate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FileCreate.MainFileCreate" />
       <module name="TeachMeSkills22" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="FileCreate.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyFileInputOutput" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FileInputOutput.MyFileInputOutput" />
+      <module name="TeachMeSkills22" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="FileInputOutput.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MyMain" />
-        <item itemvalue="Application.MainDocument" />
-        <item itemvalue="Application.MainDoubleString" />
-        <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.Symbol" />
+        <item itemvalue="Application.MainFileCreate" />
+        <item itemvalue="Application.BufferedReader.Main" />
+        <item itemvalue="Application.FileReaderWriter.MainFile" />
+        <item itemvalue="Application.MyFileInputOutput" />
+        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
