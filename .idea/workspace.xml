@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="edae3b44-47ea-4c61-bcf5-a742c02db00c" name="Changes" comment="" />
+    <list default="true" id="edae3b44-47ea-4c61-bcf5-a742c02db00c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DocumentID/MainDocument.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DocumentID/MainDocument.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DoubleString/MainDoubleString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DoubleString/MainDoubleString.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,21 +39,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Main (1)">
-    <configuration name="Homework" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Homework" />
-      <module name="TeachMeSkills22" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="JavaBasics" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaBasics" />
-      <module name="TeachMeSkills22" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.MainDocument">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="TeachMeSkills22" />
@@ -64,6 +54,32 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MainDocument" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DocumentID.MainDocument" />
+      <module name="TeachMeSkills22" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DocumentID.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainDoubleString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DoubleString.MainDoubleString" />
+      <module name="TeachMeSkills22" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DoubleString.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Symbol" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Symbol" />
       <module name="TeachMeSkills22" />
@@ -73,11 +89,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MainDocument" />
+        <item itemvalue="Application.MainDoubleString" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Symbol" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Homework" />
-        <item itemvalue="Application.JavaBasics" />
       </list>
     </recent_temporary>
   </component>
